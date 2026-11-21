@@ -1,0 +1,8 @@
+/* Block editor: approximate the front-end typography. */
+body { font-family: "DM Sans", system-ui, sans-serif; color: #2b1a24; }
+h1, h2, h3 { font-family: "Fraunces", Georgia, serif; color: #3b0f2a; }
+h2 em, h1 em { color: #c2185b; }
+.vs-card.fantasy { background: linear-gradient(135deg, #ffe3ec, #fff1df); border-radius: 20px; padding: 1.6rem; }
+.vs-card.reality { background: #3b0f2a; color: #f3dde7; border-radius: 20px; padding: 1.6rem; }
+.vs-card.reality h3 { color: #fff; }
+.vs-label { font-family: "Caveat", cursive; font-size: 1.6rem; color: #c2185b; }

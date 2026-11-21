@@ -18,3 +18,9 @@ Shared files: `styles.css`, `script.js` (all pages), `reading-list.js` (reading 
 
 ## Deploy
 Works on any static host. For GitHub Pages: **Settings → Pages → Source: `main` / root**.
+
+## WordPress version (admin panel + shop)
+The `wordpress-theme/` folder has a WordPress + WooCommerce version of this same design, with an admin panel where the author can add books, set prices, sell ebooks and signed paperbacks, and take PayPal payments.
+- `wordpress-theme/abbyknox-theme.zip` — upload under *Appearance → Themes → Add New → Upload*
+- `wordpress-theme/abbyknox-books-import.csv` — every book, for *Books → Import*
+- `wordpress-theme/SETUP-GUIDE.md` — step-by-step setup, PayPal connection and author how-to
